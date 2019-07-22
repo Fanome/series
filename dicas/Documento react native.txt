@@ -1,0 +1,38 @@
+﻿- Criação do Projeto
+
+   comando              nome projeto
+create-react-native-app people
+
+
+- Instalação do Axios
+
+	E:\ALURA\React Native 1\Projeto\people
+
+- Executar projeto
+
+	npm rum android 
+
+- Instalação do React Navigation
+
+	npm install --save react-navigation
+	
+---------------------------------------------------------------------------------------------
+	
+Criar uma pasta para o projeto
+entra na nova pasta e executar a linha de comando abaixo
+$ npm install --global expo-cli
+
+Criando o projeto
+$ expo init nome_do_projeto
+
+Instalando o yarn
+$ npm install --global yarn
+
+Apos baixar o projeto do git, instalar
+$ npm install
+
+iniciando o app
+$ expo start --android
+
+Correção do problema UNABLE_TO_GET_ISSUER_CERT_LOCALLY
+$ npm config set registry http://registry.npmjs.org/ 
